@@ -1,14 +1,16 @@
+/* Print Pattern user input.
+        ****
+        ***
+        **
+        *
+*/
 #include<stdio.h>
 int main(){
-    int i,j,n,x= 1;
+    int i,j,n;
     printf("Enter the number:");
     scanf("%d",&n);
-    
-    for(i=0;i<n;i++){
-        for(j=i;j<(n-1);j++){
-            printf(" ");
-        }
-        for(j=0;j<i;j++){
+    for(i=0;i<=n;i++){
+        for(j=n;j>i;j--){
             printf("*");
         }
         printf("\n");
