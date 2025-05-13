@@ -1,7 +1,5 @@
 # C Learning Repository
 
-A structured collection of beginner-friendly **C language** programs for foundational learning and practice. This repository includes examples, assignments, and mini tasks to build a strong base in procedural programming using C.
-
 ---
 
 ## 📌 Topics Covered
