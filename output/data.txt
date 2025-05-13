@@ -1,24 +1,10 @@
 -----------------------Employe Data base-----------------------
 _______________________________________________________________
 
-Id :: 100 
-Name :: vjhhjv 
-Age :: 25 
-Company :: jbjb 
-Salary :: 12353 
-Location :: ghjvh 
-_______________________________________________
-Id :: 200 
-Name :: jgjvhjv 
-Age :: 256 
-Company :: vvvhv 
-Salary :: 214 
-Location :: gvhjhv 
-_______________________________________________
-Id :: 300 
-Name :: hgcghcgjc 
-Age :: 247 
-Company :: gvjhvv 
-Salary :: 3654 
-Location :: vvhvhvvh 
+Id :: 1 
+Name :: Bishal 
+Age :: 20 
+Company :: Mahendra 
+Salary :: 500000 
+Location :: India 
 _______________________________________________
