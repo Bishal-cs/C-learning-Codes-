@@ -81,5 +81,3 @@ Feel free to fork the repository and add your own code examples or improvements.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
-
-> Created with dedication by Bishal Das
